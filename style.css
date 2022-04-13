@@ -1,0 +1,10 @@
+.carousel {
+    background-color: black;
+    border: solid 3px green;
+    margin: 0 600px;
+}
+
+/* Trazo en Texto */
+h2 {  
+    -webkit-text-stroke: 1px black;
+ }
